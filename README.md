@@ -3,6 +3,6 @@
 
 Hi, i live here
 
-<img src="https://python-code-aws.trinket.io/python-generated/3a8dxsig/earth_transparent.png" alt="Earth" width="300" style="border-radius: 50%;">
+<img src="https://github.com/user-attachments/assets/06b67a79-3a51-4894-b813-ead279d64d6f" alt="Earth" width="300" style="border-radius: 50%;">
 
 </div>
